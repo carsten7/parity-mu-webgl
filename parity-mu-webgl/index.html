@@ -55,7 +55,8 @@
       var loaderUrl = buildUrl + "/parity-mu-webgl.loader.js";
       var config = {
         arguments: [],
-        dataUrl: buildUrl + "/parity-mu-webgl.data",
+        // dataUrl: buildUrl + "/parity-mu-webgl.data",
+        dataUrl: buildUrl + "/parity-mu-webgl.data?v=" + Date.now(),
         frameworkUrl: buildUrl + "/parity-mu-webgl.framework.js",
         codeUrl: buildUrl + "/parity-mu-webgl.wasm",
         streamingAssetsUrl: "StreamingAssets",
