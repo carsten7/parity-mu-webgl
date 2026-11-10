@@ -3,12 +3,15 @@
     <type fullname="AnimatedDots" preserve="all" />
     <type fullname="ChoiceTaskManager" preserve="all" />
     <type fullname="ClickableCircle" preserve="all" />
+    <type fullname="DemographicsSceneManager" preserve="all" />
     <type fullname="ExitSceneManager" preserve="all" />
+    <type fullname="ParticipantIDSceneManager" preserve="all" />
     <type fullname="PLSSceneManager" preserve="all" />
     <type fullname="QuizSceneManager" preserve="all" />
     <type fullname="RatingTaskManager" preserve="all" />
     <type fullname="SessionController" preserve="all" />
     <type fullname="TestSceneManager" preserve="all" />
+    <type fullname="DemographicsSceneManager/Question" preserve="nothing" serialized="true" />
     <type fullname="QuizSceneManager/QuizQuestion" preserve="nothing" serialized="true" />
   </assembly>
   <assembly fullname="Unity.Addressables, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null" preserve="all">
