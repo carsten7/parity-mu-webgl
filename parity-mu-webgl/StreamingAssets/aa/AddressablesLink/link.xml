@@ -5,6 +5,8 @@
     <type fullname="ClickableCircle" preserve="all" />
     <type fullname="DemographicsSceneManager" preserve="all" />
     <type fullname="ExitSceneManager" preserve="all" />
+    <type fullname="HoldingSceneManager" preserve="all" />
+    <type fullname="InstructionScrollRect" preserve="all" />
     <type fullname="ParticipantIDSceneManager" preserve="all" />
     <type fullname="PLSSceneManager" preserve="all" />
     <type fullname="QuizSceneManager" preserve="all" />
@@ -12,6 +14,7 @@
     <type fullname="SessionController" preserve="all" />
     <type fullname="TestSceneManager" preserve="all" />
     <type fullname="DemographicsSceneManager/Question" preserve="nothing" serialized="true" />
+    <type fullname="QuizSceneManager/ChoiceControl" preserve="nothing" serialized="true" />
     <type fullname="QuizSceneManager/QuizQuestion" preserve="nothing" serialized="true" />
   </assembly>
   <assembly fullname="Unity.Addressables, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null" preserve="all">
@@ -93,7 +96,6 @@
     <type fullname="UnityEngine.UI.Image" preserve="all" />
     <type fullname="UnityEngine.UI.RectMask2D" preserve="all" />
     <type fullname="UnityEngine.UI.Scrollbar" preserve="all" />
-    <type fullname="UnityEngine.UI.ScrollRect" preserve="all" />
     <type fullname="UnityEngine.UI.Text" preserve="all" />
     <type fullname="UnityEngine.UI.Toggle" preserve="all" />
     <type fullname="UnityEngine.UI.ToggleGroup" preserve="all" />
